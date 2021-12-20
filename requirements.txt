@@ -1,1 +1,1 @@
-pip install jupyterlab-link-share
+jupyterlab-link-share
